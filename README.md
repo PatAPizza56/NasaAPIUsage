@@ -8,4 +8,4 @@ This project is an example of how I can utalize an API in c#. I use the NASA API
 
 Created on: `2/13/21`  
 Skills learned: Learned about using API's in c#, and advanced my knowledge of creating a dynamic system that can fetch data from any api.
-Project difficulty: 4/10
+Project difficulty: 6
